@@ -1,4 +1,4 @@
-﻿namespace CurrencyConverter
+﻿namespace CurrencyConverterApp
 {
     public interface IRateProvider
     {

@@ -1,4 +1,4 @@
-﻿namespace CurrencyConverter
+﻿namespace CurrencyConverterApp
 {
     public readonly struct Money
     {

@@ -1,4 +1,4 @@
-﻿using CurrencyConverter;
+﻿using CurrencyConverterApp;
 
 namespace CurrencyConverterMsTest;
 

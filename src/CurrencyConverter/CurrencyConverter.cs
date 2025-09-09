@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CurrencyConverter
+namespace CurrencyConverterApp
 {
     public class CurrencyConverter : ICurrencyConverter
     {
